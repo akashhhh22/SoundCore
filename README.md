@@ -4,7 +4,7 @@
 
 An interactive visualization that makes an invisible phenomenon — sound — visible in real time. Sound is just air pressure changing thousands of times a second; this page listens through your microphone and draws that pressure wave live as a glowing, reactive ring.
 
-Built for the **"Make the Invisible Visible"** challenge, Website track.
+Built for the **"Make the Invisible Visible"** challenge, Website track
 
 ## What it does
 
